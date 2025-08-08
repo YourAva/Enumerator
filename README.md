@@ -14,6 +14,7 @@ Enumerator is quite a simple tool. You just run it and provide an IP to run a ba
 enumerator {ip} -sV
 ```
 
-
 ## Final Notes
 This is just a nicer version of the code I've been using to do my prior enumeration of a target. It isn't perfect. Some changes may be made to fix it but right now It's not properly maintained.
+
+<img src="https://www.vhv.rs/dpng/d/38-380572_certified-works-on-my-machine-hd-png-download.png" width=100 align="right"></img>
