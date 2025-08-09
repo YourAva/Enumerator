@@ -13,10 +13,10 @@ std::string concatenateArguments(std::string argString, std::string newArg) {
 
 void printTitle() {
     std::cout << "\033[1;35m ____  _      _     _      ____  ___    __   _____  ___   ___  \n| |_  | |\\ | | | | | |\\/| | |_  | |_)  / /\\   | |  / / \\ | |_) \n|_|__ |_| \\| \\_\\_/ |_|  | |_|__ |_| \\ /_/--\\  |_|  \\_\\_/ |_| \\ \033[0;0m";
-    info("nMap Wrapper By Platypus");
-    std::cout << "\n\n";
+    info("v1.0.0");
+    std::cout << "\n";
     info("All nMap documentation can be found here. This is just a wrapper program and has no links to the original nMap program or its contributors : https://nmap.org/");
-    std::cout << "\n\n";
+    std::cout << "\n";
 }
 
 void initialScan(std::string ip, std::string args) {
